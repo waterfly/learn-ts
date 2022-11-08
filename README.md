@@ -3,12 +3,21 @@ The record of learning TS.
 
 
 
+
+
+## 计划
+
+* 保持一周三节，复杂的章节一周两节
+* [学习网址](https://www.tslang.cn/docs/handbook/basic-types.html)
+
+
+
 ## 内容
 
 - [x] 基础类型
-- [ ] 类
-- [ ] 变量声明
+- [x] 变量声明
 - [ ] 接口
+- [ ] 类
 - [ ] 函数
 - [ ] 泛型
 - [ ] 枚举
@@ -27,10 +36,4 @@ The record of learning TS.
 - [ ] Mixins
 - [ ] 三斜线指令
 - [ ] JavaScript文件类型检查
-
-
-
-## 计划
-
-保持一周三节，复杂的章节一周两节
 
